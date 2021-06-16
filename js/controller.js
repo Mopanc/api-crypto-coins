@@ -10,6 +10,7 @@ fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY='
     .then((response) => {
         if(!response.ok) throw new Error('Erro ao executar a requisição, status ' + response.status);
         return response.json();
+        
 })
 .then((api) => {
     
