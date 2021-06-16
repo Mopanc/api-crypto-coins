@@ -2,7 +2,7 @@
   API Coin Market Cap
     <br>
 </h1>
-<img src="./Captura de Tela 2021-06-16 às 14.44.28.png" alt="My cool screenshot"/>
+<img src="./screenshot.png" alt="My cool screenshot"/>
 
 <h4 align="center">
  Projeto Web utilizando a API Coin Market Cap
